@@ -1,1 +1,2 @@
-print('Hello, git!'\n)
+for _ in range(5):
+    print('Hello, git!'\n)
